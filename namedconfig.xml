@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns       = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "nl.funkyfish.mobile"
+        versionCode = "10"
+        version     = "1.1.0">
+ 
+    <name>FF - webapp</name>
+ 
+    <description>
+        A simple webapp
+    </description>
+ 
+    <author>
+        Ray
+    </author>
+ 
+ 
+</widget>
